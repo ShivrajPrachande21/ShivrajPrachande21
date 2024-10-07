@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivrajPrachande21
 - 👀 I’m intereste in Frontend Development 
-- 🌱 I’m currently learning Reactjs 
+- 🌱 I’m currently Working as Reactjs Developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivrajprachande21@gmail.com
 - 😄 Pronouns: ...
